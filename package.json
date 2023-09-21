@@ -4,7 +4,7 @@
   "description": "Bot for reposting Discord messages.",
   "main": "reposter.js",
   "engines": {
-    "node": "12.x",
+    "node": "*",
     "npm": "*"
   },
   "scripts": {
